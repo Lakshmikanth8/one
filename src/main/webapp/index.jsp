@@ -9,6 +9,8 @@
         <h1 style="color: black; font-size: 40px;" align="center">salaar</h1>
         <h1 style="color: black; font-size: 40px;" align="center">this is my application</h1>
         <h1 style="color: black; font-size: 40px;" align="center">this is my userinterface</h1>
+        <h1 style="color: black; font-size: 40px;" align="center">html</h1>
+
 
 
 
